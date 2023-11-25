@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraAnimationEnding" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\EventsSystems\CameraAnimationEnding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FadeAnimationEnded" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EventsSystems\FadeAnimationEnded.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csDestroyEffect" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\Script\csDestroyEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csMouseOrbit" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAICEBAEAAAgAAAABgAABEAAA=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\Script\csMouseOrbit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csParticleEffectPackLightControl" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAgEAAAAAAAAAAAAAAIAABAAAAAIAAAAAI=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\Script\csParticleEffectPackLightControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csParticleMove" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\Script\csParticleMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csShowAllEffect" Collapsed="true">
+    <Position X="14" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACgAAAAAAAEABAAAAAAAAAAgIAAAAACAAAA=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\Script\csShowAllEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csShurikenEffectChanger" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\ShurikenEffectEditor\csShurikenEffectChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="csShurikenEffectEditor" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAACAAIAAAABAAAAAAAAAACCAAAAAAA=</HashCode>
+      <FileName>Assets\Imports\48 Particle Effect Pack\ShurikenEffectEditor\csShurikenEffectEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAEAAAAAAAAAAEAAAAEAAAgAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Managers\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BodyController" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAQbCAoIADgAAAYAgQIBC0gABAAUDgQYEAYQAAAHAMA=</HashCode>
+      <FileName>Assets\Scripts\Controllers\BodyController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraController" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AADAAAAAACAAAwACAAIAAAAgAAAAAIAAAAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Scripts\Controllers\CameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterAnimation" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAACAAAAAAIAgAAAAAAIAAAAAAIAIAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Controllers\CharacterAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CinemachineController" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAEABAAABAEAAAAABAAAAAAAAABAAAAABAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Controllers\CinemachineController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LifeController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgABAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Controllers\LifeController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SpawnController" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAQAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Controllers\SpawnController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAABAAAAAQAEgAQAACAAAAAgKAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Scripts\Controllers\UIController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelEventSystem" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAAQAEAAAACAAAAEAAAAAAAEAAAACMAACAAAAAAAAFA=</HashCode>
+      <FileName>Assets\Scripts\EventsSystems\LevelEventSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StandardPlayerInput" Collapsed="true">
+    <Position X="7" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inputs\StandardPlayerInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualCharacterController" Collapsed="true">
+    <Position X="12.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAIAAgACAAAQAAAAgAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inputs\VirtualCharacterController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualSecondaryController" Collapsed="true">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Inputs\VirtualSecondaryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GravityManager" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAADAAAAAAEAgAAIAAAAAAAgAAAAJAAAABAAAAUA=</HashCode>
+      <FileName>Assets\Scripts\Managers\GravityManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="INGameUIManager" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAEgACCAAAAAAAAAAAAAAAAAAAABAAAAAAAAAFA=</HashCode>
+      <FileName>Assets\Scripts\Trash\INGameUIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelManagerBasic" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQIAAAwACCABAIAQAAAAAAGAAAAAAABAACAAAAEAFA=</HashCode>
+      <FileName>Assets\Scripts\Managers\LevelManagerBasic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneLoader" Collapsed="true">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Managers\SceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIManager" Collapsed="true">
+    <Position X="10.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIgAAACAAAAAAAAAAIAAAAAAAQAAAABAAAAACAEA=</HashCode>
+      <FileName>Assets\Scripts\Managers\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioSettings" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAEAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ScriptableObjects\AudioSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationScript" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Trash\Testing\AnimationScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FirsPersonCameraScript" Collapsed="true">
+    <Position X="14" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACACAAAAEAIAACABAAgAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\Trash\Testing\FirsPersonCameraScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAnimationController" Collapsed="true">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAQAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Trash\Testing\PlayerAnimationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Readme" Collapsed="true">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAQAAAAAAAAAAAAAAAAAAAQAAAAwAAAEAAAAA=</HashCode>
+      <FileName>Assets\TutorialInfo\Scripts\Readme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.BasicPlayerController" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAqAAAAAAAAAACAAIAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Controllers\BasicPlayerController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Assets.Scripts.GameEvents" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Trash\GameEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.MonoBehaviourWithTransform" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Trash\MonoBehaviourWithTransform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.PlayerMovement" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQQAAgIACAAAAQAAAIACAAAAAAAAAAIAAQAAEAkAAA=</HashCode>
+      <FileName>Assets\Scripts\Trash\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.DeadZoneTrigger" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Triggers\DeadZoneTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assets.Scripts.FinishLineTrigger" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Triggers\FinishLineTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityTemplateProjects.SimpleCameraController" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAwgABAAAAAAQYJAAAAAAAAEAAAAAAAIECAACAA=</HashCode>
+      <FileName>Assets\Scripts\Trash\SimpleCameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Killable" Collapsed="true">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Interfaces\Killable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="PlayerControlsInterface" Collapsed="true">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Trash\PlayerControlsInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

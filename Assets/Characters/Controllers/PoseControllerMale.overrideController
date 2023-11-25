@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PoseControllerMale
+  m_Controller: {fileID: 9100000, guid: 6ecaab3d53933d14e8cbdbec7107d887, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: d90ea399a9180b946a290242296982a4, type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 83697861e6fa2c4489bd50ea6cf14506, type: 3}
